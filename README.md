@@ -7,3 +7,4 @@ Once the temperature falls back below the threshold, a new STOP message is sent 
 The communication between the boards has been secured using the TLS protocol.
 ## Install
 
+``` https://github.com/JordanC996/ESP8266_MQTT_communication.git ```
